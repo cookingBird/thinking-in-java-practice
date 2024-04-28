@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/unit10_innerClass/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit10_innerClass/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit11_holdingObject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit11_holdingObject/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit12_errorHandling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit12_errorHandling/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit13_string/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit13_string/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit14_typeInfo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit14_typeInfo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit15_generics/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit15_generics/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit16_arrays/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit16_arrays/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit17_holdingObjectInDepth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit17_holdingObjectInDepth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit18_IO/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit18_IO/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit19_enum/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit19_enum/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit20_notes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit20_notes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit21_concurrence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit21_concurrence/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit22_graphic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit22_graphic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit7_reuseClass/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit7_reuseClass/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit8_polymorphisms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit8_polymorphisms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit9_interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit9_interface/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

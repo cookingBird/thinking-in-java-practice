@@ -1,0 +1,28 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.cookingBird</groupId>
+    <artifactId>thinking-in-java-practice</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>Archetype - thinking-in-java-practice</name>
+    <url>http://maven.apache.org</url>
+    <modules>
+        <module>unit7_reuseClass</module>
+        <module>unit8_polymorphisms</module>
+        <module>unit9_interface</module>
+        <module>unit10_innerClass</module>
+        <module>unit11_holdingObject</module>
+        <module>unit12_errorHandling</module>
+        <module>unit13_string</module>
+        <module>unit14_typeInfo</module>
+        <module>unit15_generics</module>
+        <module>unit16_arrays</module>
+        <module>unit17_holdingObjectInDepth</module>
+        <module>unit18_IO</module>
+        <module>unit19_enum</module>
+        <module>unit20_notes</module>
+        <module>unit21_concurrence</module>
+        <module>unit22_graphic</module>
+    </modules>
+</project>

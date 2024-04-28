@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="unit17_holdingObjectInDepth" />
+        <module name="unit8_polymorphisms" />
+        <module name="unit10_innerClass" />
+        <module name="unit16_arrays" />
+        <module name="unit7_reuseClass" />
+        <module name="unit15_generics" />
+        <module name="unit13_string" />
+        <module name="unit18_IO" />
+        <module name="unit22_graphic" />
+        <module name="unit14_typeInfo" />
+        <module name="unit19_enum" />
+        <module name="unit21_concurrence" />
+        <module name="unit9_interface" />
+        <module name="unit11_holdingObject" />
+        <module name="unit20_notes" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
